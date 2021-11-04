@@ -8,6 +8,6 @@ eureka:
       hostname: localhost
       
 microservice:
-  deploy-service:
-     endpoints:
-        status: http://DEPLOY-VSPHERE-TESTBED/vsphere/status/
+   deploy-service:
+      endpoints:
+         status: http://DEPLOY-VSPHERE-TESTBED/vsphere/status/
